@@ -1,0 +1,5 @@
+{
+  "name": "Sunny net walay",
+  "description": "Admin-only dashboard for Suni Net ISP to manage customers, calculate profits, and analyze business performance with AI assistance.",
+  "requestFramePermissions": []
+}
